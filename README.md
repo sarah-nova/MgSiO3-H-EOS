@@ -1,4 +1,4 @@
-# MgSiO3-H Equation-of-State Lookup Table
+# MgSiO3-H Equation of State Lookup Table
 
 This repository contains a tabulated equation of state (EOS) for liquid MgSiO3-H mixtures used in the accompanying study. The table was constructed from fitted Helmholtz free-energy surfaces for the MgSiO3-H system and is formatted for use in planetary interior calculations.
 

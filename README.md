@@ -2,7 +2,7 @@
 
 This repository contains a tabulated equation of state (EOS) for liquid MgSiO3-H mixtures used in the accompanying study. The table was constructed from fitted Helmholtz free-energy surfaces for the MgSiO3-H system and is formatted for use in planetary interior calculations.
 
-## Table domain
+## Table Info
 
 The table spans hydrogen contents from approximately 0 to 3.86 wt% H, corresponding to approximately 0 to 4 H atoms per MgSiO3 formula unit.
 

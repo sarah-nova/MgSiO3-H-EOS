@@ -3,6 +3,7 @@
 This repository contains a tabulated equation of state (EOS) for liquid MgSiO3-H mixtures used in the accompanying study. The table was constructed from fitted Helmholtz free-energy surfaces for the MgSiO3-H system and is formatted for use in planetary interior calculations.
 
 Please use the following citation if you make use of the table:
+
 @ARTICLE{2026arXiv260827401M,
        author = {{Marcum}, Sarah P. and {Stixrude}, Lars and {Young}, Edward D.},
         title = "{An Equation of State for Supercritical Silicate-Hydrogen Mixtures at Sub-Neptune Interior Conditions}",
